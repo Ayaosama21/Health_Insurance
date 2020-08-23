@@ -8,4 +8,4 @@
 ##### For Web
 
 ##### For application
-making a website on app of hospital using react-native in application ,we helps patients to choose department,doctor and appointment of clinic .
+making an app of hospital using react-native in application ,we helps patients to choose department,doctor and appointment of clinic .
