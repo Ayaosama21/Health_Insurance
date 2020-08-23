@@ -1,5 +1,7 @@
 # Health Insurance Management System
 # Designed For Masr El Gdida Clinic
-# contains code for web and mobile interfaces as well as server 
-# communication via RESFUL apis
+# Laravel server for backend
+# Angular framework for frontend
+# React Native for mobile interface
+# communication via RESTFUL apis
 # http://www.mgclinic.online/#/
