@@ -5,6 +5,7 @@
 
 
 ### our repository consists of three folders 
+# For Web
 
-# Fro
-making a website on app of hospital using react-native.....
+# For application
+making a website on app of hospital using react-native in application 
